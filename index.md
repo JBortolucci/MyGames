@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/Jairaeva/MyGames/edit/mast
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[![Jogo desenvolvido para gamejam do canal 365Indies](http://img.youtube.com/vi/wLcJIpvQCPQ/0.jpg)]
+[![Jogo desenvolvido para gamejam do canal 365Indies](http://img.youtube.com/vi/wLcJIpvQCPQ/0.jpg)] (http://www.youtube.com/watch?v=wLcJIpvQCPQ)
 
 ### Markdown
 
