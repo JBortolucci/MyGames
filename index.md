@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/Jairaeva/MyGames/edit/mast
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+[![Jogo desenvolvido para gamejam do canal 365Indies](http://img.youtube.com/vi/watch?v=wLcJIpvQCPQ&feature=youtu.be/0.jpg)]
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
