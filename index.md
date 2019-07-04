@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/Jairaeva/MyGames/edit/mast
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[![TESTE](http://img.youtube.com/vi/wLcJIpvQCPQ/23.jpg)](https://youtu.be/wLcJIpvQCPQ)
+[![TESTE](http://img.youtube.com/vi/wLcJIpvQCPQ/0.jpg)](https://youtu.be/wLcJIpvQCPQ)
 
 ### Markdown
 
